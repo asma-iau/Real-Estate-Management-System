@@ -1,0 +1,7 @@
+Transaction ID: 1 | Date: 2025-01-15 | Final Price: 550000.0
+Transaction ID: 2 | Date: 2025-02-20 | Final Price: 1200000.0
+Transaction ID: 3 | Date: 2025-04-05 | Final Price: 320000.0
+Transaction ID: 4 | Date: 2025-05-12 | Final Price: 2100000.0
+Transaction ID: 5 | Date: 2025-06-18 | Final Price: 480000.0
+Transaction ID: 6 | Date: 2025-07-01 | Final Price: 900000.0
+Transaction ID: 7 | Date: 2025-07-10 | Final Price: 650000.0
