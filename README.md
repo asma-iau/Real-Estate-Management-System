@@ -26,16 +26,13 @@ The Real Estate Management System is a Java-based desktop application developed 
    https://github.com/asma-iau/Real-Estate-Management-System.git
    ```
 
-2. **Open MySQL** and create the database:
-   ```sql
-   CREATE DATABASE realestatemangmentsystem;
-   ```
+2. **Set up the database**:
+   * Open **MySQL Workbench** or your preferred MySQL terminal.
+   * Import and run the provided SQL script file included in the repository
 
-3. **Create the required tables** (USERS, CLIENT, AGENT, OWNER, PROPERTY, TRANSACTION)
+3. **Open the project** using NetBeans or your preferred IDE
 
-4. **Open the project** using NetBeans or your preferred IDE
-
-5. **Update database credentials** in `DatabaseConnect.java`:
+4. **Update database credentials** in `DatabaseConnect.java`:
    ```java
    DriverManager.getConnection(
        "jdbc:mysql://localhost:3306/realestatemangmentsystem",
@@ -44,7 +41,7 @@ The Real Estate Management System is a Java-based desktop application developed 
    );
    ```
 
-6. **Add MySQL Connector JAR** to your project classpath
+5. **Add MySQL Connector JAR** to your project classpath
 
 ### Executing program
 
