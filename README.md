@@ -15,7 +15,7 @@ The Real Estate Management System is a Java-based desktop application developed 
 ### Dependencies
 
 - Java JDK 8 or higher
-- MySQL Server (XAMPP/WAMP recommended)
+- MySQL Server (MySQL Workbench)
 - MySQL JDBC Driver
 - NetBeans IDE (recommended) or any Java IDE
 
