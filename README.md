@@ -23,7 +23,7 @@ The Real Estate Management System is a Java-based desktop application developed 
 
 1. **Clone the repository** from GitHub:
    ```bash
-   git clone https://github.com/yourusername/realestate-management.git
+   https://github.com/asma-iau/Real-Estate-Management-System.git
    ```
 
 2. **Open MySQL** and create the database:
